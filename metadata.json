@@ -1,0 +1,6 @@
+{
+  "name": "Verification & Accounts Portal",
+  "description": "Portal for department bill & Bar'awurd verification, payment pipeline, and bank donation reconciliation for representatives with net banking statement matching and printable reward endorsement sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
